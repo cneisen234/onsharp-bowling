@@ -54,6 +54,7 @@ for (int i = 1; i <= 10; i++)
         total = firstShot + secondShot;
         Console.WriteLine($"You knocked {secondShot} pins down! Press enter to continue");
         Console.ReadLine();
+        if(total >= 10) {
             if(total == 10) {
                 thirdShot = random.Next(0, 11);
             } else {
@@ -63,6 +64,7 @@ for (int i = 1; i <= 10; i++)
                 total += thirdShot;
                 Console.WriteLine($"You knocked {thirdShot} pins down! Press enter to continue");
                 Console.ReadLine();
+        }
     }
         Console.WriteLine($"Your total for frame {i} is {total}");
         totalGameScore += total;
