@@ -1,0 +1,14 @@
+/Users/christopherneisen/Desktop/onsharp-bowling/bin/Debug/net7.0/onsharp-bowling
+/Users/christopherneisen/Desktop/onsharp-bowling/bin/Debug/net7.0/onsharp-bowling.deps.json
+/Users/christopherneisen/Desktop/onsharp-bowling/bin/Debug/net7.0/onsharp-bowling.runtimeconfig.json
+/Users/christopherneisen/Desktop/onsharp-bowling/bin/Debug/net7.0/onsharp-bowling.dll
+/Users/christopherneisen/Desktop/onsharp-bowling/bin/Debug/net7.0/onsharp-bowling.pdb
+/Users/christopherneisen/Desktop/onsharp-bowling/obj/Debug/net7.0/onsharp-bowling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christopherneisen/Desktop/onsharp-bowling/obj/Debug/net7.0/onsharp-bowling.AssemblyInfoInputs.cache
+/Users/christopherneisen/Desktop/onsharp-bowling/obj/Debug/net7.0/onsharp-bowling.AssemblyInfo.cs
+/Users/christopherneisen/Desktop/onsharp-bowling/obj/Debug/net7.0/onsharp-bowling.csproj.CoreCompileInputs.cache
+/Users/christopherneisen/Desktop/onsharp-bowling/obj/Debug/net7.0/onsharp-bowling.dll
+/Users/christopherneisen/Desktop/onsharp-bowling/obj/Debug/net7.0/refint/onsharp-bowling.dll
+/Users/christopherneisen/Desktop/onsharp-bowling/obj/Debug/net7.0/onsharp-bowling.pdb
+/Users/christopherneisen/Desktop/onsharp-bowling/obj/Debug/net7.0/onsharp-bowling.genruntimeconfig.cache
+/Users/christopherneisen/Desktop/onsharp-bowling/obj/Debug/net7.0/ref/onsharp-bowling.dll
